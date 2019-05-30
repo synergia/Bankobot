@@ -10,7 +10,7 @@ czy na danym kanale zmienia się sygnał robot się porusza. W tej chwili ruch j
 (oznacza to, że robot zawsze jeździ z pełną prędkością). 
 
 Rozwój projketu: 
--wykorzystać wejście PWM na mostkach
+-wykorzystać wejście PWM na mostkach \\
 -podłączyć i okodować enkodery
  
 
